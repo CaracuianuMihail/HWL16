@@ -1,0 +1,5 @@
+✔	git repo: https://github.com/Iulik1989/lesson16
+✔	Creati un loop care sa numere de la 0 pina la 10 folosint for, wihle si do while.
+✔	Creati un for loop care sa afiseze pe rand fiecare litera dintr-un string.
+✔	Creati o functie care sa indeplineasca exercitiile de mai sus, folosin arrow function, function declaration si function expression. 
+    La exercitiu cu numaratul, functia tebuie sa primeasca numarul pina la care este nevoie de numarat, iar la afisarea literilor trebuie sa primeasca ca argument stringul.
